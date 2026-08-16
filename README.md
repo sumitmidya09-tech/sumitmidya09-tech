@@ -224,24 +224,3 @@ I'm currently learning, building, and growing every day as I work toward becomin
 ---
 
 ### 🙏 Thanks for Visiting!
-
-### 🚀 My Direction
-
-```text
-🐍 Python
-   +
-⚙️ Automation
-   +
-🔗 n8n
-   +
-🤖 Artificial Intelligence
-   +
-🧠 LLMs
-   +
-🔎 RAG
-   +
-🤝 AI Agents
-   +
-🚀 AI Applications
-   ↓
-👨‍💻 AI Engineer
