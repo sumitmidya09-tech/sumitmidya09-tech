@@ -26,6 +26,10 @@ I started my journey with **HTML, CSS, and Python**, learned **Git & GitHub**, e
 
 ## 🛠️ Tech Stack
 
+
+[🏅 View my JioPC AI Foundation Badge](https://jiopc.embibe.com/courses/certificate)
+
+
 ### 💻 Languages & Web
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
