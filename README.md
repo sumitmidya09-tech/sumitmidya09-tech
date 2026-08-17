@@ -27,7 +27,17 @@ I started my journey with **HTML, CSS, and Python**, learned **Git & GitHub**, e
 ## 🛠️ Tech Stack
 
 
-[🏅 View my JioPC AI Foundation Badge](https://jiopc.embibe.com/courses/certificate)
+## 🏅 Certifications & Achievements
+
+### AI Foundation Course — JioPC
+
+[🏅 View JioPC AI Foundation Badge](https://jiopc.embibe.com/courses/certificate)
+
+- **Provider:** JioPC AI Classroom
+- **Status:** Completed
+- **Credential:** Course Completion Badge
+- **Completion Date:** 17 August 2026
+
 
 
 ### 💻 Languages & Web
