@@ -31,13 +31,12 @@ I started my journey with **HTML, CSS, and Python**, learned **Git & GitHub**, e
 
 ### AI Foundation Course — JioPC
 
-[🏅 View JioPC AI Foundation Badge](https://jiopc.embibe.com/courses/certificate)
+🏅 JioPC AI Foundation Course Badge
 
 - **Provider:** JioPC AI Classroom
 - **Status:** Completed
 - **Credential:** Course Completion Badge
 - **Completion Date:** 17 August 2026
-
 
 
 ### 💻 Languages & Web
