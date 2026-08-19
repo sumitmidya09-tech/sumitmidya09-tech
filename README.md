@@ -39,6 +39,20 @@ I started my journey with **HTML, CSS, and Python**, learned **Git & GitHub**, e
 - **Completion Date:** 17 August 2026
 
 
+## 🏆 Certifications & Achievements
+
+### 🤖 Agentic AI Certified Foundations Associate
+
+- **Certification:** Agentic AI Certified Foundations Associate
+- **Issued to:** Sumit Midya
+- **Date:** August 19, 2026
+- **Certificate ID:** `103520337AAI26OFA`
+
+
+
+
+
+
 ### 💻 Languages & Web
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
